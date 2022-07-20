@@ -1,5 +1,5 @@
 ## ProxyScan
-代码修改于https://github.com/netxfly/xsec-proxy-scanner，感谢大佬的代码
+代码修改于`https://github.com/netxfly/xsec-proxy-scanner `感谢大佬的贡献
 
 ### 0x00 适用场景
 
