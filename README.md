@@ -26,3 +26,7 @@
 - IPS 可能会检测到connect方式，建议放低线程 （Connect的C2[通信方式](https://blog.csdn.net/Hello_super/article/details/108677621)，yyds）
 - “某个网站”可能是只某个白名单域名，建议多尝试
 - 只能输入IP:PORT的文件形式，暂不支持C段，建议用8080，8081，80，1080，1081生成C段对应的扫描文件列表
+
+## 0x03 更多安全小技巧
+
+![星球二维码](README.assets/%E6%98%9F%E7%90%83%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
